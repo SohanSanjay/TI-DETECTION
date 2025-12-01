@@ -8,8 +8,8 @@
 
 <h2> File Tree </h2>
 📁 TI-DETECTION <br>
-|-&nbsp &nbsp 📁 TEST-SETS <br>
-&nbsp &nbsp |- 📄 test <br>
+&nbsp &nbsp 📁 TEST-SETS <br>
+&nbsp &nbsp &nbsp &nbsp 📄 test <br>
 &nbsp &nbsp 📁 TI-DETECTION <br>
 &nbsp &nbsp &nbsp &nbsp 📄 core.py <br>
 &nbsp &nbsp &nbsp &nbsp 📄 correlation-function.py <br>
