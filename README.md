@@ -8,7 +8,7 @@
 
 <h2> File Tree </h2>
 TI-DETECTION 
-    | dist
+    | dist \n
     | TEST-SETS
         -test                           file -testing cases
     | TI-DETECTION
