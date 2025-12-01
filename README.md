@@ -7,19 +7,10 @@
 <h2> Method </h2>
 
 <h2> File Tree </h2>
-project/
-├── src/
-│   ├── main.py
-│   ├── utils.py
-│   └── models/
-│       └── model.py
-├── data/
-│   ├── raw/
-│   └── processed/
-├── results/
-│   └── figures/
-├── README.md
-└── .gitignore
+📁 src
+📁 data
+📄 README.md
+
 
 
 <h2> Functions </h2>
