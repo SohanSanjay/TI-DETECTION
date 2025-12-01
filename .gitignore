@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.__pycache__*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.env
+.venv
+.vscode/
+test_data/
+*-ignore.*
+.ipynb_checkpoints
+/TEST-SETS/
