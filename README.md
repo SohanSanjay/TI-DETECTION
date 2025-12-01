@@ -7,17 +7,20 @@
 <h2> Method </h2>
 
 <h2> File Tree </h2>
-TI-DETECTION/ 
-    |-- dist 
-    |--TEST-SETS/
-        -test                           file -testing cases
-    | TI-DETECTION
-        -__init__.py                    file -contain functions
-        -core.py                        file -contain core functions
-        -correlation-function.py        
-    - .gitignore                        file -ignore file in github
-    - pyproject.toml                    file -project details
-    - README.md                         file -readme file
+project/
+├── src/
+│   ├── main.py
+│   ├── utils.py
+│   └── models/
+│       └── model.py
+├── data/
+│   ├── raw/
+│   └── processed/
+├── results/
+│   └── figures/
+├── README.md
+└── .gitignore
+
 
 <h2> Functions </h2>
 
