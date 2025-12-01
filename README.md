@@ -7,8 +7,18 @@
 <h2> Method </h2>
 
 <h2> File Tree </h2>
-📁 src <br>
-&nbsp &nbsp📁 data <br>
+📁 TI-DETECTION <br>
+&nbsp &nbsp 📁 TEST-SETS <br>
+&nbsp &nbsp &nbsp &nbsp 📄 test <br>
+&nbsp &nbsp 📁 TI-DETECTION <br>
+&nbsp &nbsp &nbsp &nbsp 📄 core.py <br>
+&nbsp &nbsp &nbsp &nbsp 📄 correlation-function.py <br>
+&nbsp &nbsp &nbsp &nbsp 📄 create-cnn-handle.py <br>
+&nbsp &nbsp &nbsp &nbsp 📄 data-vis.py <br>
+&nbsp &nbsp &nbsp &nbsp 📄 input-data-handle.py <br>
+&nbsp &nbsp &nbsp &nbsp 📄 output-data-handle.py <br>
+&nbsp &nbsp 📄 .gitignore
+&nbsp &nbsp 📄 pyproject.toml
 &nbsp &nbsp 📄 README.md
 
 
