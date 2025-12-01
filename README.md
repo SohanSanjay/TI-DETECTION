@@ -7,9 +7,9 @@
 <h2> Method </h2>
 
 <h2> File Tree </h2>
-TI-DETECTION 
-    | dist \n
-    | TEST-SETS
+TI-DETECTION/ 
+    |-- dist 
+    |--TEST-SETS/
         -test                           file -testing cases
     | TI-DETECTION
         -__init__.py                    file -contain functions
