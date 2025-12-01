@@ -17,9 +17,9 @@
 &nbsp &nbsp &nbsp &nbsp 📄 data-vis.py <br>
 &nbsp &nbsp &nbsp &nbsp 📄 input-data-handle.py <br>
 &nbsp &nbsp &nbsp &nbsp 📄 output-data-handle.py <br>
-&nbsp &nbsp 📄 .gitignore
-&nbsp &nbsp 📄 pyproject.toml
-&nbsp &nbsp 📄 README.md
+&nbsp &nbsp 📄 .gitignore <br>
+&nbsp &nbsp 📄 pyproject.toml <br>
+&nbsp &nbsp 📄 README.md <br>
 
 
 
