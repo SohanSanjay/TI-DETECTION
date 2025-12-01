@@ -11,4 +11,4 @@ build/
 test_data/
 *-ignore.*
 .ipynb_checkpoints
-/TEST-SETS/
+TEST-SETS/
