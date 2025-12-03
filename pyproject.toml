@@ -2,8 +2,8 @@
 requires = ["setuptools>=61.0","wheel"]
 build-backend = "setuptools.build_meta"
 [project]
-name = "TI-DETECTION"
-version = "0.0.0"
+name = "TI_DETECTION"
+version = "0.0.16"
 authors = [{name = "Sohan Costa"}]
 description = "TI method to detemine changes in patters"
 readme = "README.md"
